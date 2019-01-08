@@ -1,2 +1,2 @@
 # fid
-For School 
+Repository for classes, testing Github for the first time.
